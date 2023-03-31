@@ -28,11 +28,13 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 
-####Las credenciales de pruebas son:
+#### Las credenciales de pruebas son:
 
-##Usuario: test@test.com
+###### Usuario: 
+test@test.com
 
-##Contraseña: 12345678
+###### Contraseña: 
+12345678
 
 
 Realizado por Jordan Garcia
