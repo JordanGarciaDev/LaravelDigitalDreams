@@ -30,10 +30,9 @@ DB_PASSWORD=
 
 ####Las credenciales de pruebas son:
 
-#####Usuario: 
-test@test.com
-#####Contraseña: 
-12345678
+#####Usuario: test@test.com
+
+#####Contraseña: 12345678
 
 
 Realizado por Jordan Garcia
