@@ -30,10 +30,10 @@ DB_PASSWORD=
 
 #### Las credenciales de pruebas son:
 
-###### Usuario: 
+##### Usuario: 
 test@test.com
 
-###### Contraseña: 
+##### Contraseña: 
 12345678
 
 
